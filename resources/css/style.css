@@ -2,6 +2,7 @@
   font-family: verdana;
   background-color: black;
   text-align: center;
+  image-orientation: center;
 }
 h1{
   font-size: 50px;
@@ -16,7 +17,7 @@ h2{
   font-size: 42px;
   color: white;
 }
-p{
+p.campingimage{
   font-size: 21px;
   color: gray;
 }
