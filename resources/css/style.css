@@ -1,12 +1,13 @@
-*{
+html{
   font-family: verdana;
   background-color: black;
-  text-align: center;
   image-orientation: center;
+  text-align: center;
 }
 h1{
   font-size: 50px;
   color: white;
+  font-weight: normal;
 }
 h3.futurelink{
   color: aquamarine;
@@ -17,12 +18,11 @@ h2{
   font-size: 42px;
   color: white;
 }
-p.campingimage{
+p{
   font-size: 21px;
   color: gray;
 }
-p.copyright{
-  color: : gray;
+.copyright{
   text-align: right;
-  font-size: 21px;
+  color: gray;
 }
